@@ -1,0 +1,11 @@
+2023-04-03 02:37:44.693412 - Initialized conversion of CBT779
+2023-04-03 02:37:44.810351 - Received CBT.V504.FILE779.PDS from FILE779.XMI 
+2023-04-03 02:37:44.812798 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE779.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:37:44.813866 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE779.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:37:44.814896 - Found $$NOTE2.txt (text/plain) in CBT.V504.FILE779.PDS, moved to PDS/$$NOTE2
+2023-04-03 02:37:44.815864 - Found $$NOTE3.txt (text/plain) in CBT.V504.FILE779.PDS, moved to PDS/$$NOTE3
+2023-04-03 02:37:44.816828 - Found $COMPILE.jcl (text/plain) in CBT.V504.FILE779.PDS, moved to PDS/$COMPILE
+2023-04-03 02:37:44.817799 - Found $COMPILS.jcl (text/plain) in CBT.V504.FILE779.PDS, moved to PDS/$COMPILS
+2023-04-03 02:37:44.818754 - Found $INTRO01.txt (text/plain) in CBT.V504.FILE779.PDS, moved to PDS/$INTRO01
+2023-04-03 02:37:44.819736 - Found @FILE779.txt (text/plain) in CBT.V504.FILE779.PDS, moved to PDS/@FILE779
+2023-04-03 02:37:44.820796 - Found SYMBSUB.txt (text/plain) in CBT.V504.FILE779.PDS, moved to PDS/SYMBSUB
