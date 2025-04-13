@@ -1,0 +1,10 @@
+2025-04-13 22:45:39.371983 - Received CBT.V508.FILE779.PDS from FILE779.XMI 
+2025-04-13 22:45:39.372825 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE779.PDS, moved to PDS/$$$#DATE
+2025-04-13 22:45:39.372901 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE779.PDS, moved to PDS/$$NOTE1
+2025-04-13 22:45:39.372998 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE779.PDS, moved to PDS/$$NOTE2
+2025-04-13 22:45:39.373090 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE779.PDS, moved to PDS/$$NOTE3
+2025-04-13 22:45:39.373183 - Found $COMPILE.jcl (text/plain) in CBT.V508.FILE779.PDS, moved to PDS/$COMPILE
+2025-04-13 22:45:39.373274 - Found $COMPILS.jcl (text/plain) in CBT.V508.FILE779.PDS, moved to PDS/$COMPILS
+2025-04-13 22:45:39.373407 - Found $INTRO01.txt (text/plain) in CBT.V508.FILE779.PDS, moved to PDS/$INTRO01
+2025-04-13 22:45:39.373522 - Found @FILE779.txt (text/plain) in CBT.V508.FILE779.PDS, moved to PDS/@FILE779
+2025-04-13 22:45:39.373832 - Found SYMBSUB.txt (text/plain) in CBT.V508.FILE779.PDS, moved to PDS/SYMBSUB
